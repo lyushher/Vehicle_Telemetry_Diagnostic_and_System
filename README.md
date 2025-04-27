@@ -1,4 +1,4 @@
-# Vehicle Telemetry and Diagnostic System Simulator
+# Vehicle Telemetry and Diagnostic System 
 
 This project is a Vehicle Telemetry and Diagnostic System Simulator built with Python, 
 using Tkinter for the graphical user interface (GUI) and Matplotlib for real-time data visualization.
